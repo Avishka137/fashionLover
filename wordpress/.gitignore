@@ -1,0 +1,4 @@
+echo "wp-config.php" > .gitignore
+echo "wp-content/uploads/" >> .gitignore
+echo ".DS_Store" >> .gitignore
+echo "*.log" >> .gitignore
