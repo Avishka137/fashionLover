@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # fashionLover
 Fashion Lover - A WordPress fashion website built with eCommerce Gem theme. Features home, about, contact pages with a top bar showing address, phone, and email.
+=======
+<<<<<<< HEAD
+>>>>>>> 855c615 (updated user page !)
 # 👗 Fashion Lover - WordPress Fashion Website
 
 > **The Ladies Fashion House** — A modern fashion website built with WordPress.
@@ -142,3 +146,7 @@ This project is for educational and personal use.
 ---
 
 ⭐ If you found this helpful, consider giving it a star on GitHub!
+=======
+# fashionLover
+Fashion Lover - A WordPress fashion website built with eCommerce Gem theme. Features home, about, contact pages with a top bar showing address, phone, and email.
+>>>>>>> 22ca6a0 (Initial commit)
